@@ -1,0 +1,14 @@
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: dhilanr/jekyll-theme-crestlex
+
+url: https://tinymlx.github.io
+baseurl: /CRESTLEX3
+
+title: CRESTLEX3
+
+alert:
+    - success
