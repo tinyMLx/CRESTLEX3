@@ -4,6 +4,12 @@
 * TOC
 {:toc}
 
+## Making Things Smarter
+
+<div class="border border-1 border-dark ratio ratio-85x110 mt-1">
+    <iframe id="pdf-js-viewer" src="{{ site.baseurl }}/web/viewer.html?file={{'/schedule/2/ei/intro.pdf' | relative_url }}" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
+
 ## Getting Started with Edge Impulse
 
 1. First, create an account on Edge Impulse: [https://studio.edgeimpulse.com/signup](https://studio.edgeimpulse.com/signup)  
