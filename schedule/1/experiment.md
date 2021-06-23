@@ -23,7 +23,8 @@ Tasks like **classification** and **prediction** when identifying objects, writi
 
 ## Hands-on AI Experiment: AutoDraw
 <div class="message">
-Visit <a href="https://www.autodraw.com/"><b>AutoDraw</b></a> to start experimenting.
+Visit <a href="https://www.autodraw.com/"><b>AutoDraw</b></a> to start experimenting. <br>
+Then try <a href="https://quickdraw.withgoogle.com/"><b>Quick, Draw!</b></a> to compare!
 </div>
 
 <a class="d-block mb-1 small text-end text-muted" href="{{'/schedule/1/experiment/draw.pdf' | relative_url }}" target="_blank">
@@ -38,10 +39,11 @@ Visit <a href="https://www.autodraw.com/"><b>AutoDraw</b></a> to start experimen
 We'll move into smaller groups via breakout rooms in Zoom.  
 
 > Use the following questions to discuss what you find with your fellow workshop members:
-+ Do you think the AI did a good job?
-+ Why do you think the AI did (or did not) work well?
-+ How do you think the AI is working to solve this task?
-+ What types of things were particularly hard or easy for the AI?
++ Do you think the AI did a **good job**? 👍 / 👎
++ **Why** do you think the AI did (or did not) **work well**?
++ **How** do you think the AI is working to solve this task? 🤔
++ What types of things were **particularly hard or easy** for the AI?
++ Do you think each AI experiment "learned" the same way with the same training material?  Why or why not?
 
 <br><br>
 
@@ -62,10 +64,10 @@ Visit <a href="https://thing-translator.appspot.com/"><b>Thing Translator</b></a
 We'll move into smaller groups via breakout rooms in Zoom.  
 
 > Use the following questions to discuss what you find with your fellow workshop members:
-+ Do you think the AI did a good job?
-+ Why do you think the AI did (or did not) work well?
-+ How do you think the AI is working to solve this task?
-+ What types of things were particularly hard or easy for the AI?
++ Do you think the AI did a **good job**? 👍 / 👎
++ **Why** do you think the AI did (or did not) **work well**?
++ **How** do you think the AI is working to solve this task? 🤔
++ What types of things were **particularly hard or easy** for the AI?
 + Do you think the AI was better or worse at this task? Why do you think that was the case?
 
 

@@ -83,6 +83,18 @@ These individuals worked behind the scenes to make CRESTLEX 3.0 a reality.
     </div> 
 </div>
 
+<div class="grid-container-team">
+    <div class="grid-child">
+      <img alt="Ragsgs" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/rags.png" style="max-height: 15rem; width: auto;">
+    </div>
+    <div class="grid-child">
+        <b>Professor Ragavanantham Shanmugam (Raggs)</b><br>
+        Assistant Professor of Advanced Manufacturing Engineering Technology, <i>Navajo Technical University</i><br>
+        <!-- <a href="https://nanodesign.seas.harvard.edu/">nanodesign.seas.harvard.edu</a><br> -->
+        <!-- <a href="mailto:rags@navajotech.edu"><i class="fas fa-envelope"></i> Email me!</a> -->
+    </div> 
+</div>
+
 
 <div class="grid-container-team">
     <div class="grid-child">
