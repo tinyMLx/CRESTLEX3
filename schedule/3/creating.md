@@ -4,9 +4,23 @@
 * TOC
 {:toc}
 
-Yesterday we analyzed a pre-trained keyword spotting model using the keyword "hello world" with audio samples uploaded from a small set of participants. Today we will see how machine learning becomes even more powerful when we train a model with it's potential biases in mind, such as the tone, pitch, accent, or even the language of the keyword itself.
+Yesterday we analyzed a pre-trained keyword spotting model using the keyword "hello world" with audio samples uploaded from a small set of participants. Today we will see how machine learning becomes even more powerful when we train a model with it's potential biases in mind, such as the tone, pitch, accent, or even the language of the keyword itself. But before we dive into the hands on lab we'll be given a demo by Professor Gage Hills on how we can use these kinds of models to control objects in the world around us!
 
-## Creating a Crowdsourced Keyword Dataset
+## Using Keyword Spotting to Control Physical Systems
+
+[Professor Gage Hills](https://nanodesign.seas.harvard.edu/) and Ezenia Diaz-Lambert designed a demo to show how you can use a Keyword Spotting system to control objects in the world around us. In this example they used Edge Impulse to train a Keyword Spotting model to control a pet feeder! To learn more about the project you can check out the [video tutorial Ezenia made](https://www.youtube.com/watch?v=XRHLoq5wEQ8&t=1s)!
+
+<a class="d-block mb-1 small text-end text-muted" href="{{'/schedule/3/ei/hackPetFeeder.pdf' | relative_url }}" target="_blank">
+    Open
+    <i class="fas fa-external-link-alt ms-1"></i>
+</a>
+<div class="border border-1 border-dark ratio ratio-85x110 mt-1">
+    <iframe id="pdf-js-viewer" src="{{ site.baseurl }}/web/viewer.html?file={{'/schedule/3/ei/hackPetFeeder.pdf' | relative_url }}" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
+
+<br><br>
+
+## Creating a Crowdsourced Keyword Dataset (Live Lab / Demo)
 
 1. Grab your phone, open up the Camera app and scan the QR code below by pointing your camera at your computer screen, then click on the link that appears on your phone:  
     <img src="/CRESTLEX3/schedule/3/ei/30s_yaateeh_11KHz.png" alt="CRESTLEX QR code for crowd-sourced keyword collection" width="300px">
@@ -30,7 +44,7 @@ Yesterday we analyzed a pre-trained keyword spotting model using the keyword "he
 <p>These errors usually occur when you have switched applications on your phone mid-recording (for example, by swiping up and leaving the web browser), or you have lost connection to the internet. Try re-scanning the QR code from step 1 from the <a href="#creating-a-crowdsourced-keyword-dataset">Creating a Crowdsourced Keyword Dataset</a> steps above and re-recording your keyword samples.</p>
 </details>
   
-## Deploy a Custom Keyword Spotting Model
+## Deploy a Custom Keyword Spotting Model (Live Lab / Demo)
 
 Now that we have collected our crowdsourced dataset and designed/trained our custom keyword spotting model, we can deploy this model to our phones for keyword spotting on the edge in real time.
 
@@ -71,7 +85,7 @@ Now that we have collected our crowdsourced dataset and designed/trained our cus
 <p>This error occurs when you don't give the web browser access to your microphone. Refresh your browser page and allow microphone access as seen in step 9 from the <a href="#deploy-a-custom-keyword-spotting-model">Deploy a Custom Keyword Spotting Model</a> steps above.</p>
 </details>
   
-## Deploy a Custom Image Classification Model
+## (Bonus for you to try at home) Deploy a Custom Image Classification Model
 
 Similarly to the custom keyword spotting model, we can also create a personalized version of the person detection image classification model we saw yesterday.
 
@@ -124,3 +138,20 @@ Similarly to the custom keyword spotting model, we can also create a personalize
 <p>This error occurs when you don't give the web browser access to your camera. Refresh your browser page and allow camera access (steps above: <a href="#deploy-a-custom-image-classification-model">Deploy a Custom Image Classification Model</a>).</p>
 </details>
 
+## (Bonus for you to try at home) Creating Your Own Crowdsourced Dataset
+
+The following instructions are based on [this document](https://github.com/edgeimpulse/voice-activated-microbit#use-the-power-of-the-crowd-to-collect-keywords) where you can find content.
+
+If you would like to use the power of the crowd to create you own dataset you'll need to do the following three steps:
+
+1. First get your own **API key**. You'll find under Edge Impulse Project Dashboard > Keys > Add new API key.
+
+2. Then construct the following URL: https://smartphone.edgeimpulse.com/keyword.html?apiKey=[ei_XXX]&sampleLength=[30000]&keyword=[microbit]&frequency=[11000]
+
+Where you replace:
++ [ei_XXX] with your API key.
++ [30000] with the desired length that people need to record for in milliseconds (here 30000 = 30 seconds).
++ [microbit] with the keyword people should say.
++ [frequency] the audio frequency. (If you don't know the frequency of your hardware leave it as 11KHz aka 11000).
+
+3. Share the link through a QR code which you can [generate at this link](https://www.the-qrcode-generator.com/)! **NOTE: People will have access to your full project through this API key. Revoke the API key after your presentation!!**

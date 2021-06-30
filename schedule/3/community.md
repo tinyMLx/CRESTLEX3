@@ -4,6 +4,19 @@
 * TOC
 {:toc}
 
+## A Quick Recap and Crowdsourcing Datasets
+We start off the day quickly recaping what we've learned so far! We then will explore how we can use crowdsourcing to improve our datasets and enable ML for all!
+
+<a class="d-block mb-1 small text-end text-muted" href="{{'/schedule/3/community/commonVoice.pdf' | relative_url }}" target="_blank">
+    Open
+    <i class="fas fa-external-link-alt ms-1"></i>
+</a>
+<div class="border border-1 border-dark ratio ratio-85x110 mt-1">
+    <iframe id="pdf-js-viewer" src="{{ site.baseurl }}/web/viewer.html?file={{'/schedule/3/community/commonVoice.pdf' | relative_url }}" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>
+
+<br><br>
+
 ## STEM/ML in the Navajo Nation
 There are countless ways to launch machine learning-powered innovations in your own communities.  Some students from Navajo Technical University will share some of their ideas to get your brainstorming session started!
 

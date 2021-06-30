@@ -4,14 +4,17 @@
 *Summer 2021*
 
 <a style="text-decoration:none" href="https://www.seas.harvard.edu/">
-  <img src="{{ '/assets/seas.svg' | relative_url }}" alt="Harvard SEAS" style="height: 3.5rem">
+  <img src="{{ '/assets/seas.svg' | relative_url }}" alt="Harvard SEAS" style="height: 3.0rem">
 </a>
 <a style="text-decoration:none" href="https://ai.google/education/">
-  <img src="{{ '/assets/g.svg' | relative_url }}" alt="Google" style="height: 3.5rem">
+  <img src="{{ '/assets/g.svg' | relative_url }}" alt="Google" style="height: 3.0rem">
 </a>
 <a style="text-decoration:none" href="http://www.navajotech.edu/">
-  <img src="{{ '/assets/ntu.svg' | relative_url }}" alt="Navajo Technical University" style="height: 3.5rem">
+  <img src="{{ '/assets/ntu.svg' | relative_url }}" alt="Navajo Technical University" style="height: 3.0rem">
 </a>
 <a style="text-decoration:none" href="https://www.edgeimpulse.com/">
-  <img src="{{ '/assets/edgeImpulse.svg' | relative_url }}" alt="Edge Impulse" style="height: 3.5rem">
+  <img src="{{ '/assets/edgeImpulse.svg' | relative_url }}" alt="Edge Impulse" style="height: 3.0rem">
+</a>
+<a style="text-decoration:none" href="https://www.tensorflow.org/lite/microcontrollers">
+  <img src="{{ '/assets/TFLiteMicro.png' | relative_url }}" alt="TFLite Micro" style="height: 3.0rem">
 </a>
