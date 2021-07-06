@@ -88,3 +88,16 @@
 <br>
 <p>This error occurs when you don't give the web browser access to your camera. Refresh your browser page and allow camera access as seen in step 3 from the <a href="#person-detection-image-classification-model">Person Detection Image Classification Model</a> steps above.</p>
 </details>
+
+<br><br>
+
+## *Where* ML Works?
+Classical machine learning applications were designed to run on powerful computers in large-scale, high power datacenters.  But the new trend is toward *Tiny* machine learning.  We'll explore cloud computing and the future of ML on *tiny* devices before previewing tomorrow's activities.
+
+<a class="d-block mb-1 small text-end text-muted" href="{{'/schedule/2/ei/datacenter.pdf' | relative_url }}" target="_blank">
+    Open
+    <i class="fas fa-external-link-alt ms-1"></i>
+</a>
+<div class="border border-1 border-dark ratio ratio-85x110 mt-1">
+    <iframe id="pdf-js-viewer" src="{{ site.baseurl }}/web/viewer.html?file={{'/schedule/2/ei/datacenter.pdf' | relative_url }}" title="webviewer" frameborder="0" width="500" height="600"></iframe>
+</div>

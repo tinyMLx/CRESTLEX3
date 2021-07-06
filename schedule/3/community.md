@@ -48,6 +48,17 @@ As we return, let's discuss the following together;
 >+ What did you think was the most **exciting idea** from your breakout discussion? Why?
 + What do you think will be the **hardest challenges** faced by all of your ideas? What are some ways to **overcome** those challenges?
 
+## Your Ideas
+Together, we brainstormed so many great ideas for ML applications in the Navajo Nation and other communities!  Here are some of our favorite ones:
+
+>- Use ML to identify native and invasive species
+- Use ML image detection and translation to preserve the Navajo language
+- Use AI to detect radon in homes
+- Crowdsource images of monuments as a historical record
+- Use ML to identify uranium mining contaminants in soil
+- Catalogue wildflowers around reservation
+- Track species population numbers to ensure availability of habitat and food chain
+
 ## Preview of the Afternoon Session
 
 <a class="d-block mb-1 small text-end text-muted" href="{{'/schedule/3/community/preview.pdf' | relative_url }}" target="_blank">

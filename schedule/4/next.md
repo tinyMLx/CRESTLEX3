@@ -38,9 +38,23 @@
 
 <br><br>
 
-<div class="message">
-More coming <b>soon</b>.
-</div>
+>Resources to **learn programming**
+- Start learning with [**Scratch**](https://scratch.mit.edu/)
+- Go further with Microsoft [**MakeCode**](https://www.microsoft.com/en-us/makecode)
+- Find lesson plans through [**code.org**](https://curriculum.code.org/)
+- Survey the fundamentals through [**Crash Course**](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) videos
+- Take a real Harvard course [**CS50**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
+
+>Resources to practice more with **machine learning**
+- Try more AI experiments on [**Google**](https://experiments.withgoogle.com/collection/ai)
+- Practice training with [**Teachable Machine**](https://teachablemachine.withgoogle.com/)
+- Go further and build your own ML apps on [**Edge Impulse**](https://www.edgeimpulse.com/)
+- Learn TensorFlow with [**Laurence**](https://www.coursera.org/learn/introduction-tensorflow)
+- Understand how Neural Networks work on [**YouTube**](https://www.youtube.com/watch?v=aircAruvnKk)
+- Take VJ and Brian's online course on [**TinyML**](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- Start building more projects, find ideas on [**hackster.io**](https://www.hackster.io/)
+
+
 <br>
 
 ## edX Resources (TinyMLx)
