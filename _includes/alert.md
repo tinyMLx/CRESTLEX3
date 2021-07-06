@@ -1,2 +1,3 @@
-Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call.
+Click [here]({{ "/dataset" | relative_url }}) to join our Navajo speech dataset challenge with your class!
+<!-- Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call. -->
 <!-- If interested in [verified certificates](https://www.edx.org/verified-certificate) from [edX](https://www.edx.org/), enroll [here](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning). -->

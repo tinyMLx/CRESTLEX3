@@ -1,18 +1,32 @@
 ---
 title: false
 ---
+<figure class="figure">
+  <center>
+  <video src="assets/opener.mp4" controls autoplay class="vid-fluid rounded center">
+  Your browser does not support the video tag.
+  </video>
+  <!-- <script>
+      var video = document.currentScript.parentElement;
+      video.autoplay = true;
+      video.load();
+      video.play();
+      video.volume = 0.5;
+  </script> -->
+  <!-- <figcaption class="figure-caption text-end">Welcome / Brian & Dhilan</figcaption> -->
+  </center>
+</figure>
 
 # Yá'át'ééh 👋 (Welcome!)
 
->Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call.
+>CRESTLEX 3.0 was run virtually from June 22 to June 25, 2021.
+<!-- Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call. -->
 
 CRESTLEX 3.0 is the first-of-its-kind, 4-day, hands-on workshop for high school **teachers** and **students** exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML).  
 
 This program is a collaboration between **Navajo Technical University**, the **Harvard** John A. Paulson School of Engineering and Applied Sciences, **Google**, and **Edge Impulse**.
 
 We would like to thank the **TensorFlow Lite Micro Team** for the continued support of all of our TinyML educational content!
-
-CRESTLEX 3.0 will be run virtually from June 22 to June 25, 2021.
 
 <div class="message">
 <b>No prior experience</b> is expected.
