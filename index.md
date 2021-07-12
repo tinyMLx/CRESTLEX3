@@ -3,7 +3,7 @@ title: false
 ---
 <figure class="figure">
   <center>
-  <video src="assets/opener.mp4" controls autoplay class="vid-fluid rounded center">
+  <video src="assets/opener_v2.mp4" controls autoplay class="vid-fluid rounded center">
   Your browser does not support the video tag.
   </video>
   <!-- <script>
