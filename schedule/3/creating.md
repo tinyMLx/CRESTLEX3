@@ -140,6 +140,8 @@ Similarly to the custom keyword spotting model, we can also create a personalize
 
 ## (Bonus for you to try at home) Creating Your Own Crowdsourced Dataset
 
+>**The below instructions have been superseeded by this [wonderful new post from Jenny!](https://www.edgeimpulse.com/blog/utilize-the-power-of-the-crowd-for-data-collection)**
+
 The following instructions are based on [this document](https://github.com/edgeimpulse/voice-activated-microbit#use-the-power-of-the-crowd-to-collect-keywords) where you can find content.
 
 If you would like to use the power of the crowd to create you own dataset you'll need to do the following three steps:
