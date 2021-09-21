@@ -1,6 +1,6 @@
 ***
 
-* <a href = "https://tinymlx.org/">TinyMLx <i aria-hidden="true" class="fas fa-external-link-alt"></i></a>
+* <a href = "https://tinyml.seas.harvard.edu/">TinyMLedu <i aria-hidden="true" class="fas fa-external-link-alt"></i></a>
 
 ***
 
