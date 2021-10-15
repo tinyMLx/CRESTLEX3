@@ -11,13 +11,9 @@
 ***
 
 * [How can I use ML in my Community?](3/community)
-* [*Build it!* Creating your own application with Edge Impulse](3/ei)
+* [*Build it!* Creating your own application with Edge Impulse](3/creating)
 
 ***
 
 * [Responsible AI](4/responsible)
 * [What's Next?](4/next)
-
-<!-- # edX Resources (TinyMLx)
-
-* [Open Courseware Materials](https://github.com/tinyMLx/courseware/tree/master/edX) -->
